@@ -1,6 +1,6 @@
 # SK_anno
 This project for S.knerii annotation result |
-skRaw_pseu.genome.all.maker.proteins.fasta.zip: Maker output |
-sk_p_Top3.blast.zip: proteins blast to Nr database |
-InterPro_out_all.xml.zip: InterProScan5 output |
-SK_KEGG.ko.txt: KEGG output
+S_knerii_genome.all.maker.proteins.fasta.zip and S_knerii_genome.all.maker.transcripts.fasta.zip: Maker output |
+skP_Run2_labPC_P_Top3.blast.zip: proteins blast to Nr database |
+sk_interpro_labpc.tsv.zip: InterProScan5 output |
+KEGG_KOlist_labPC.txt: KEGG output
